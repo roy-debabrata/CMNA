@@ -12,3 +12,5 @@ For a particular bitmask x<sub>0</sub>...x<sub>63</sub> where x<sub>n</sub> repr
 The table can be viewed on any spreadsheet editor. That brings us to the other part. 
 
 The visualizer/editor is supposed use the spreadsheet, represent the multiplication table and help us understand how changing a particular bit at a given position might effect the overall mapping of results. The visualizer is still work in progress and will eventually be checked in to this public repo.
+
+Note on sheet names: The sheet names are indexes for a piece in a bit board with [LERBEF](https://www.chessprogramming.org/Bibob) layout.
